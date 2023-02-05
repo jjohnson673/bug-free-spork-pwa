@@ -1,10 +1,16 @@
 # Progressive Web Applications (PWA) Challenge: Text Editor
 
-## Description
-
 
 ## Table of Contents
 
+- [User Story](#user)
+- [Acceptance Criteria](#acceptance-critera)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Deployed Application](#deployed-application)
+- [Application Screenshot](#application-screenshot)
+- [License](#license)
+- [Contact](#contact)
 
 
 
@@ -45,3 +51,39 @@ THEN I should have my static assets pre cached upon loading along with subsequen
 WHEN I deploy to Heroku
 THEN I should have proper build scripts for a webpack application
 ```
+
+## Installation
+
+After cloning or forking the repo run on the CLI:
+
+```
+npm install
+```
+
+```
+npm run start
+```
+
+## Usage
+
+Open application in web browser and select the Install link on the upper left hand corner. Once installed, user will be able to access code snippets without internet usage.
+
+
+## Deployed Application
+
+Click here to access the deployed application on Heroku:
+
+https://tranquil-river-80258.herokuapp.com/
+
+## Application Screenshot
+
+![Screenshot](./client/src/images/pwa_readme.png)
+
+## License
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) <br>
+This project is licensed under MIT
+
+## Contact
+
+For any questions, please contact me at jkjohnson673@gmail.com
